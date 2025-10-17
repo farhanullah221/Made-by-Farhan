@@ -18,9 +18,9 @@ const Home = () => {
                           className="cd-words-wrapper"
                           style={{ width: "266px", overflow: "hidden" }}
                         >
-                          <b className="is-hidden">Farhan Salih</b>
+                          <b className="is-visible">Farhan Salih</b>
                           <b className="is-hidden">Frontend </b>
-                          <b className="is-visible">Developer</b>
+                          <b className="is-hidden">Developer</b>
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
