@@ -205,7 +205,7 @@ const Home = () => {
                       </p>
                       <a
                         className="about-link-1"
-                        href="assets/cv/Farhan ullah CV (3).pdf"
+                        href="assets/cv/Farhan Ullah cv (4).pdf"
                         target="_blank"
                       >
                         See Resume
