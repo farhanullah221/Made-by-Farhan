@@ -20,7 +20,7 @@ const Home = () => {
                         >
                           <b className="is-visible">Farhan Salih</b>
                           <b className="is-hidden">Frontend </b>
-                            <b className="is-hidden">& WordPress </b>
+                          <b className="is-hidden">& WordPress </b>
                           <b className="is-hidden">Developer</b>
                         </span>
                       </h1>
