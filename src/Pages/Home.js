@@ -20,6 +20,7 @@ const Home = () => {
                         >
                           <b className="is-visible">Farhan Salih</b>
                           <b className="is-hidden">Frontend </b>
+                            <b className="is-hidden">& WordPress </b>
                           <b className="is-hidden">Developer</b>
                         </span>
                       </h1>
@@ -103,16 +104,13 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I’m a passionate Front-End Developer with a strong focus
-                        on creating clean, responsive, and user-friendly web
-                        experiences. I love turning ideas into reality through
-                        code and continuously learning new technologies to
-                        improve my craft. With a keen eye for detail and a
-                        commitment to delivering high-quality work, I strive to
-                        build intuitive interfaces that not only look great but
-                        also perform flawlessly across devices. I’m driven by
-                        curiosity, creativity, and a desire to make a meaningful
-                        impact through modern web development.
+                       I’m a passionate Front-End and WordPress Developer with a strong focus on creating clean, responsive, and user-friendly web experiences.
+
+I specialize in WordPress development, including custom themes, Elementor design, and WooCommerce integration — helping businesses build modern, SEO-friendly, and fast-loading websites.
+
+I love turning ideas into reality through code and continuously learning new technologies to improve my craft. With a keen eye for detail and a commitment to delivering high-quality work, I strive to build intuitive interfaces that not only look great but also perform flawlessly across all devices.
+
+Driven by curiosity, creativity, and a desire to make a meaningful impact, I’m dedicated to bringing value through modern web development — combining the power of frontend design and WordPress to deliver complete digital solutions.
                       </p>
                     </div>
                   </div>
@@ -188,14 +186,11 @@ const Home = () => {
                         <div className="underline2 no-margin"></div>
                       </div>
                       <p className="wow fadeIn">
-                        a passionate Front-End Developer dedicated to creating
-                        visually appealing, user-friendly, and high-performing
-                        web experiences. I specialize in transforming creative
-                        concepts into responsive, interactive websites that look
-                        great on every device. My approach combines clean
-                        design, thoughtful functionality, and efficient code to
-                        deliver results that not only meet but exceed
-                        expectations.
+                      I’m a passionate Front-End and WordPress Developer dedicated to creating visually appealing, user-friendly, and high-performing websites.
+
+I specialize in WordPress development, crafting responsive and interactive websites using custom themes, Elementor, and WooCommerce. My approach blends clean design, thoughtful functionality, and efficient code to ensure every site looks great and performs flawlessly on any device.
+
+I’m committed to transforming creative ideas into powerful web experiences that not only meet but exceed expectations — helping brands build a strong, modern online presence.
                         <br />
                         <br />
                         I’m always eager to explore new technologies, learn from
@@ -304,7 +299,7 @@ const Home = () => {
                     }}
                   >
                     <p className="mb-0">
-                      I’m a passionate <strong>Front-End Developer</strong> with
+                      I’m a passionate <strong>Front-End And Wordpress Developer</strong> with
                       a deep love for crafting engaging, modern, and
                       user-friendly web experiences. My work revolves around
                       blending <strong>creativity and technology</strong> to
@@ -314,7 +309,7 @@ const Home = () => {
 
                     <p className="mt-3 mb-0">
                       With strong expertise in{" "}
-                      <strong>HTML, CSS, JavaScript, and React</strong>, I
+                      <strong>HTML, CSS, JavaScript, Wordpress And React</strong>, I
                       translate design ideas into responsive, high-performance
                       applications that deliver smooth and enjoyable user
                       journeys. I pay close attention to detail, ensuring each
@@ -638,7 +633,7 @@ const Home = () => {
                         <div className="underline2"></div>
                         <p>
                           Completed a{" "}
-                          <strong>Frontend Web Development Internship</strong>{" "}
+                          <strong>Frontend And WordPress Development Internship</strong>{" "}
                           at
                           <strong> Intelgency IT Solutions</strong>, Islamabad,
                           in collaboration with <strong>NUST University</strong>
