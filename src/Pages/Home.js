@@ -670,7 +670,7 @@ I’m committed to transforming creative ideas into powerful web experiences tha
               </div>
               <div className="container">
                 <div className="gallery" style={{ paddingTop: "80px" }}>
-                  <a href="#">
+                  <a href="# ">
                     <div className="gallery-item">
                       <img
                         className="gallery-image"
